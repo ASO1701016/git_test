@@ -1,0 +1,1 @@
+print('github活用練習');
