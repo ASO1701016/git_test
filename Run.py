@@ -1,1 +1,1 @@
-print('github活用練習');
+print('githubテスト');
